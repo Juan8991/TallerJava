@@ -1,0 +1,21 @@
+
+I
+java:S1121 ".Extract the assignment out of this expression.(ÛêË€øÿÿÿÿ
+I
+java:S1121"".Extract the assignment out of this expression.(Ï¢™şÿÿÿÿ
+I
+java:S1121$".Extract the assignment out of this expression.(ŠÀ‰ãøÿÿÿÿ
+@
+java:S5411"*Use the primitive boolean expression here.(ÒèÒÆ
+\
+java:S1854"ARemove this useless assignment to local variable "precioFinalTV".(’¦àúÿÿÿÿ
+\
+java:S1854 "ARemove this useless assignment to local variable "precioFinalTV".(ÛêË€øÿÿÿÿ
+\
+java:S1854""ARemove this useless assignment to local variable "precioFinalTV".(Ï¢™şÿÿÿÿ
+\
+java:S1854$"ARemove this useless assignment to local variable "precioFinalTV".(ŠÀ‰ãøÿÿÿÿ
+M
+java:S1481"2Remove this unused "precioFinalTV" local variable.(’¦àúÿÿÿÿ
+=
+java:S1125"'Remove the unnecessary boolean literal.(ÒèÒÆ
